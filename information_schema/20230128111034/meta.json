@@ -1,0 +1,632 @@
+{
+  "MetaVersion": "30100",
+  "DatabaseType": "MYSQL",
+  "Catalog": "",
+  "Schema": "information_schema",
+  "StartTime": "1674871834",
+  "EndTime": "1674871842",
+  "Encryption": "None",
+  "Comment": "",
+  "Objects": [
+    {
+      "UUID": "9aa64a3c-2038-4dfe-9c19-1e481dc476e6",
+      "Type": "Table",
+      "Name": "CHARACTER_SETS",
+      "Rows": "41",
+      "Metadata": {
+        "Filename": "9aa64a3c-2038-4dfe-9c19-1e481dc476e6.meta.json.gz",
+        "Checksum": "29A6BBA56CBA0D77D44D39691B087AC41675B3AE"
+      }
+    },
+    {
+      "UUID": "df2e35c3-b79e-485a-a09d-d510ce025a19",
+      "Type": "Table",
+      "Name": "COLLATION_CHARACTER_SET_APPLICABILITY",
+      "Rows": "270",
+      "Metadata": {
+        "Filename": "df2e35c3-b79e-485a-a09d-d510ce025a19.meta.json.gz",
+        "Checksum": "BA96BE6245CD878E07E0B0E9553A4244D4A1285D"
+      }
+    },
+    {
+      "UUID": "4a92ec77-fe79-48b1-a38e-f06218f1fa00",
+      "Type": "Table",
+      "Name": "COLLATIONS",
+      "Rows": "270",
+      "Metadata": {
+        "Filename": "4a92ec77-fe79-48b1-a38e-f06218f1fa00.meta.json.gz",
+        "Checksum": "0F20C132FEBB504391F22D513B471ED1C1A512F4"
+      }
+    },
+    {
+      "UUID": "000bed09-b345-466a-a662-174d1574ef09",
+      "Type": "Table",
+      "Name": "COLUMN_PRIVILEGES",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "000bed09-b345-466a-a662-174d1574ef09.meta.json.gz",
+        "Checksum": "058416178CBAC1AFEB6B1DCBA9513910F518F13C"
+      }
+    },
+    {
+      "UUID": "a6fba04d-0342-4b17-b201-92f298ab6cce",
+      "Type": "Table",
+      "Name": "COLUMN_STATISTICS",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "a6fba04d-0342-4b17-b201-92f298ab6cce.meta.json.gz",
+        "Checksum": "3350E3EAD2D044D461B9B281BA72CA60622FA8B6"
+      }
+    },
+    {
+      "UUID": "9ba63234-1113-4be1-9648-7a2c8e71ab47",
+      "Type": "Table",
+      "Name": "COLUMNS",
+      "Rows": "3800",
+      "Metadata": {
+        "Filename": "9ba63234-1113-4be1-9648-7a2c8e71ab47.meta.json.gz",
+        "Checksum": "1974277E80A838CD99AAD2119C9DDA3DE41C8CFE"
+      }
+    },
+    {
+      "UUID": "70f2e8da-947e-444d-9f27-286bbd54289e",
+      "Type": "Table",
+      "Name": "ENGINES",
+      "Rows": "9",
+      "Metadata": {
+        "Filename": "70f2e8da-947e-444d-9f27-286bbd54289e.meta.json.gz",
+        "Checksum": "B9C92E4945FE03BE28322217CF92B82348EE0151"
+      }
+    },
+    {
+      "UUID": "70bdc6c2-2280-4a01-91c2-86d48f041aeb",
+      "Type": "Table",
+      "Name": "EVENTS",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "70bdc6c2-2280-4a01-91c2-86d48f041aeb.meta.json.gz",
+        "Checksum": "6C90119148A4C8558E87A4177821141FCE950D5F"
+      }
+    },
+    {
+      "UUID": "15040c3b-8195-4b2e-afba-ecdb8337f0bb",
+      "Type": "Table",
+      "Name": "FILES",
+      "Rows": "69",
+      "Metadata": {
+        "Filename": "15040c3b-8195-4b2e-afba-ecdb8337f0bb.meta.json.gz",
+        "Checksum": "7A87320DAF7C945D3D04EAFB2C36BD35286DFD34"
+      }
+    },
+    {
+      "UUID": "e691553f-8056-4436-a32c-04f6f6411f0a",
+      "Type": "Table",
+      "Name": "INNODB_BUFFER_PAGE",
+      "Rows": "4096",
+      "Metadata": {
+        "Filename": "e691553f-8056-4436-a32c-04f6f6411f0a.meta.json.gz",
+        "Checksum": "5B884F3357CE915704BBDE74735B63CEEA6918CC"
+      }
+    },
+    {
+      "UUID": "501d100f-962b-414c-9f88-2400b2f623cb",
+      "Type": "Table",
+      "Name": "INNODB_BUFFER_PAGE_LRU",
+      "Rows": "3063",
+      "Metadata": {
+        "Filename": "501d100f-962b-414c-9f88-2400b2f623cb.meta.json.gz",
+        "Checksum": "A8256C7433722C249EA216A26DC8D0876A52AAE8"
+      }
+    },
+    {
+      "UUID": "2d258a43-f44a-41d1-9dc3-22d7c36a2805",
+      "Type": "Table",
+      "Name": "INNODB_BUFFER_POOL_STATS",
+      "Rows": "1",
+      "Metadata": {
+        "Filename": "2d258a43-f44a-41d1-9dc3-22d7c36a2805.meta.json.gz",
+        "Checksum": "21160D96543A99C77653867C4D93BE7D7E035D9E"
+      }
+    },
+    {
+      "UUID": "83aa2bab-b3b8-4033-a483-8ca535463dcd",
+      "Type": "Table",
+      "Name": "INNODB_CACHED_INDEXES",
+      "Rows": "127",
+      "Metadata": {
+        "Filename": "83aa2bab-b3b8-4033-a483-8ca535463dcd.meta.json.gz",
+        "Checksum": "B5A606181B66066EAFC65509FCC252A8A06EAD5E"
+      }
+    },
+    {
+      "UUID": "53fa1d3f-d83d-48f7-ac9c-fc86db732077",
+      "Type": "Table",
+      "Name": "INNODB_CMP",
+      "Rows": "5",
+      "Metadata": {
+        "Filename": "53fa1d3f-d83d-48f7-ac9c-fc86db732077.meta.json.gz",
+        "Checksum": "32EF6C797845438EDF66C4AE48B2B267F8CA0729"
+      }
+    },
+    {
+      "UUID": "220b4e6a-9243-4062-adaa-3ab9c1587325",
+      "Type": "Table",
+      "Name": "INNODB_CMP_PER_INDEX",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "220b4e6a-9243-4062-adaa-3ab9c1587325.meta.json.gz",
+        "Checksum": "76B1494141B54F6F25448BD002846E5AD950A74B"
+      }
+    },
+    {
+      "UUID": "96df002f-1bed-419d-b02c-eaff78e08fef",
+      "Type": "Table",
+      "Name": "INNODB_CMP_PER_INDEX_RESET",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "96df002f-1bed-419d-b02c-eaff78e08fef.meta.json.gz",
+        "Checksum": "E56C6967876F3234A6B2D80D285E95952EBEB234"
+      }
+    },
+    {
+      "UUID": "53af5680-9187-4c0f-80c8-3960919880a5",
+      "Type": "Table",
+      "Name": "INNODB_CMP_RESET",
+      "Rows": "5",
+      "Metadata": {
+        "Filename": "53af5680-9187-4c0f-80c8-3960919880a5.meta.json.gz",
+        "Checksum": "B075B449C349F8EA2DFB6B373606C74D6A30C9CC"
+      }
+    },
+    {
+      "UUID": "445b2dc6-3289-4fba-bf09-b62206bb68e9",
+      "Type": "Table",
+      "Name": "INNODB_CMPMEM",
+      "Rows": "5",
+      "Metadata": {
+        "Filename": "445b2dc6-3289-4fba-bf09-b62206bb68e9.meta.json.gz",
+        "Checksum": "E85F589D43C859D9EB270D8A573F84C06DD00B4E"
+      }
+    },
+    {
+      "UUID": "c8890e10-757c-4b7f-88a4-148388821a33",
+      "Type": "Table",
+      "Name": "INNODB_CMPMEM_RESET",
+      "Rows": "5",
+      "Metadata": {
+        "Filename": "c8890e10-757c-4b7f-88a4-148388821a33.meta.json.gz",
+        "Checksum": "F28E2193834AC09AD1190CE2BBBF4EABE595B0C7"
+      }
+    },
+    {
+      "UUID": "e1ba2e89-dd60-439b-9ba5-4efec2bf9cce",
+      "Type": "Table",
+      "Name": "INNODB_COLUMNS",
+      "Rows": "982",
+      "Metadata": {
+        "Filename": "e1ba2e89-dd60-439b-9ba5-4efec2bf9cce.meta.json.gz",
+        "Checksum": "AC1009268D1FE6CD053320E5324EBAA0F1CB7031"
+      }
+    },
+    {
+      "UUID": "d8ba3df2-e6d6-4024-818f-9478fada7d08",
+      "Type": "Table",
+      "Name": "INNODB_DATAFILES",
+      "Rows": "67",
+      "Metadata": {
+        "Filename": "d8ba3df2-e6d6-4024-818f-9478fada7d08.meta.json.gz",
+        "Checksum": "523D3C8A47DB805626E0A4692C3F346DEB513CBA"
+      }
+    },
+    {
+      "UUID": "7ce6b7c4-5d9a-496e-aaa4-0f701afb77e1",
+      "Type": "Table",
+      "Name": "INNODB_FIELDS",
+      "Rows": "305",
+      "Metadata": {
+        "Filename": "7ce6b7c4-5d9a-496e-aaa4-0f701afb77e1.meta.json.gz",
+        "Checksum": "F693875F02D40DF960A811E3C0DF300C0AA09245"
+      }
+    },
+    {
+      "UUID": "1370e07d-45e4-4cac-8d24-9326426f787f",
+      "Type": "Table",
+      "Name": "INNODB_FOREIGN",
+      "Rows": "8",
+      "Metadata": {
+        "Filename": "1370e07d-45e4-4cac-8d24-9326426f787f.meta.json.gz",
+        "Checksum": "8B24294A8D71F09C4AE263E578681904F4F98266"
+      }
+    },
+    {
+      "UUID": "530880a9-9677-4786-915c-73cde14d4e1c",
+      "Type": "Table",
+      "Name": "INNODB_FOREIGN_COLS",
+      "Rows": "8",
+      "Metadata": {
+        "Filename": "530880a9-9677-4786-915c-73cde14d4e1c.meta.json.gz",
+        "Checksum": "E4ECF19548A2A2143E130E9166B3922D4A3B4949"
+      }
+    },
+    {
+      "UUID": "5d2e5263-b509-459a-8079-9e48db478f43",
+      "Type": "Table",
+      "Name": "INNODB_FT_BEING_DELETED",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "5d2e5263-b509-459a-8079-9e48db478f43.meta.json.gz",
+        "Checksum": "13C53402DB9C63AD6C5EC24F73E36D3DC2D165F7"
+      }
+    },
+    {
+      "UUID": "dd1520da-b561-42ac-b8ab-26bb21c29620",
+      "Type": "Table",
+      "Name": "INNODB_FT_CONFIG",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "dd1520da-b561-42ac-b8ab-26bb21c29620.meta.json.gz",
+        "Checksum": "9BE58FBE61CBCBCB0B274B9EAC2D67504ED75DCE"
+      }
+    },
+    {
+      "UUID": "54c00f09-9f82-4534-b3a0-17bcd7c3c722",
+      "Type": "Table",
+      "Name": "INNODB_FT_DEFAULT_STOPWORD",
+      "Rows": "36",
+      "Metadata": {
+        "Filename": "54c00f09-9f82-4534-b3a0-17bcd7c3c722.meta.json.gz",
+        "Checksum": "35BA558C8C4DA91F840EB7CA3F7E478D588B3DD8"
+      }
+    },
+    {
+      "UUID": "f79177bc-9e7c-4b99-89b7-bd9477329af5",
+      "Type": "Table",
+      "Name": "INNODB_FT_DELETED",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "f79177bc-9e7c-4b99-89b7-bd9477329af5.meta.json.gz",
+        "Checksum": "7E5AC9EFB621B3B5FC62528532667F8E2A71D140"
+      }
+    },
+    {
+      "UUID": "1220b1fe-16f3-4125-a1f1-b580e8d6b046",
+      "Type": "Table",
+      "Name": "INNODB_FT_INDEX_CACHE",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "1220b1fe-16f3-4125-a1f1-b580e8d6b046.meta.json.gz",
+        "Checksum": "8140329716D3376535D2CF47BC8D3D2A5CFF74A0"
+      }
+    },
+    {
+      "UUID": "d0857f58-e4e8-4ba9-a6d8-631c09632bba",
+      "Type": "Table",
+      "Name": "INNODB_FT_INDEX_TABLE",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "d0857f58-e4e8-4ba9-a6d8-631c09632bba.meta.json.gz",
+        "Checksum": "23132E37781A259CBEA6B2EE95A8B2E5C4ECC075"
+      }
+    },
+    {
+      "UUID": "6d0f127e-4069-4856-b789-63448ab82ccf",
+      "Type": "Table",
+      "Name": "INNODB_INDEXES",
+      "Rows": "226",
+      "Metadata": {
+        "Filename": "6d0f127e-4069-4856-b789-63448ab82ccf.meta.json.gz",
+        "Checksum": "5B19407F0EF06F2C3D1C607956A677F0D974ECAC"
+      }
+    },
+    {
+      "UUID": "3bccc14f-3973-477d-878c-96ee3d4e4fd8",
+      "Type": "Table",
+      "Name": "INNODB_METRICS",
+      "Rows": "278",
+      "Metadata": {
+        "Filename": "3bccc14f-3973-477d-878c-96ee3d4e4fd8.meta.json.gz",
+        "Checksum": "1F0F5598B64E8FBF617F6FA801EAA47871E68883"
+      }
+    },
+    {
+      "UUID": "58faf757-a0b2-4427-962f-29c02d36e943",
+      "Type": "Table",
+      "Name": "INNODB_TABLES",
+      "Rows": "93",
+      "Metadata": {
+        "Filename": "58faf757-a0b2-4427-962f-29c02d36e943.meta.json.gz",
+        "Checksum": "DB8F45DDA8F1692C1EE5597C25CED9FE57C55C25"
+      }
+    },
+    {
+      "UUID": "ab50ab42-c3ff-4cf8-a3ba-560044b1bec6",
+      "Type": "Table",
+      "Name": "INNODB_TABLESPACES",
+      "Rows": "68",
+      "Metadata": {
+        "Filename": "ab50ab42-c3ff-4cf8-a3ba-560044b1bec6.meta.json.gz",
+        "Checksum": "71B398BDCA5502242DBF1905807DE54C4343AC6E"
+      }
+    },
+    {
+      "UUID": "b17e232f-a5fe-4a4e-b84f-2f3ba8fa880c",
+      "Type": "Table",
+      "Name": "INNODB_TABLESPACES_BRIEF",
+      "Rows": "67",
+      "Metadata": {
+        "Filename": "b17e232f-a5fe-4a4e-b84f-2f3ba8fa880c.meta.json.gz",
+        "Checksum": "B76BD19DF8999FA8AC27FBFDA628B6E304CB5BA3"
+      }
+    },
+    {
+      "UUID": "e1983280-85c3-49a5-b796-d6f7e7ebb87d",
+      "Type": "Table",
+      "Name": "INNODB_TABLESTATS",
+      "Rows": "93",
+      "Metadata": {
+        "Filename": "e1983280-85c3-49a5-b796-d6f7e7ebb87d.meta.json.gz",
+        "Checksum": "E56B54D996AEDE2BF3B4453C77A42D455FC66BEB"
+      }
+    },
+    {
+      "UUID": "177ea7ef-faf3-4d11-bba2-ef85c488f902",
+      "Type": "Table",
+      "Name": "INNODB_TEMP_TABLE_INFO",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "177ea7ef-faf3-4d11-bba2-ef85c488f902.meta.json.gz",
+        "Checksum": "9777DD074FAF5073014A638B77C19845A0116A8E"
+      }
+    },
+    {
+      "UUID": "d3415435-6c59-45df-9f9b-6b98ed61b748",
+      "Type": "Table",
+      "Name": "INNODB_TRX",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "d3415435-6c59-45df-9f9b-6b98ed61b748.meta.json.gz",
+        "Checksum": "CE20D5A2840837DCC352FBD79ECEE2C304770D1D"
+      }
+    },
+    {
+      "UUID": "0c457133-7112-4729-b51e-cb795df1f340",
+      "Type": "Table",
+      "Name": "INNODB_VIRTUAL",
+      "Rows": "2",
+      "Metadata": {
+        "Filename": "0c457133-7112-4729-b51e-cb795df1f340.meta.json.gz",
+        "Checksum": "0D467A2B7984EC9470BC782786D008EDB2FBEC9A"
+      }
+    },
+    {
+      "UUID": "7ad88850-3343-48e4-91db-c3ab59568475",
+      "Type": "Table",
+      "Name": "KEY_COLUMN_USAGE",
+      "Rows": "346",
+      "Metadata": {
+        "Filename": "7ad88850-3343-48e4-91db-c3ab59568475.meta.json.gz",
+        "Checksum": "C92C3BAAF9E449F0B7DED3B6B27BFE8FB04EAF2A"
+      }
+    },
+    {
+      "UUID": "1ed40c7e-cb4b-4d6e-b0be-86133b01ea82",
+      "Type": "Table",
+      "Name": "KEYWORDS",
+      "Rows": "675",
+      "Metadata": {
+        "Filename": "1ed40c7e-cb4b-4d6e-b0be-86133b01ea82.meta.json.gz",
+        "Checksum": "C0DB5A6D0A6342807E6001B2182DF8139029E424"
+      }
+    },
+    {
+      "UUID": "27599af5-fc1f-437c-a3cb-2a59b6d3483b",
+      "Type": "Table",
+      "Name": "OPTIMIZER_TRACE",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "27599af5-fc1f-437c-a3cb-2a59b6d3483b.meta.json.gz",
+        "Checksum": "DE2D96544EBC2395ED89A78FAFFF78EC5C0A2E77"
+      }
+    },
+    {
+      "UUID": "bb92c8db-a5e2-4a81-a0d1-2b1befb86dc3",
+      "Type": "Table",
+      "Name": "PARAMETERS",
+      "Rows": "83",
+      "Metadata": {
+        "Filename": "bb92c8db-a5e2-4a81-a0d1-2b1befb86dc3.meta.json.gz",
+        "Checksum": "3AFC026DDB602491C24C59E285F8E06D522A9E25"
+      }
+    },
+    {
+      "UUID": "b52e22ea-9101-4674-a29f-c3ca00a53835",
+      "Type": "Table",
+      "Name": "PARTITIONS",
+      "Rows": "379",
+      "Metadata": {
+        "Filename": "b52e22ea-9101-4674-a29f-c3ca00a53835.meta.json.gz",
+        "Checksum": "7006F654F6EDA584D1CB331AEEFE9BCE723C4799"
+      }
+    },
+    {
+      "UUID": "38667c53-09f4-4c97-8f59-8c9e8ff7f99d",
+      "Type": "Table",
+      "Name": "PLUGINS",
+      "Rows": "43",
+      "Metadata": {
+        "Filename": "38667c53-09f4-4c97-8f59-8c9e8ff7f99d.meta.json.gz",
+        "Checksum": "2C715150078A0E44C9E64167AE218CA95FEEEB5A"
+      }
+    },
+    {
+      "UUID": "24a82a00-47a8-499a-8441-5cfe5f366444",
+      "Type": "Table",
+      "Name": "PROCESSLIST",
+      "Rows": "3",
+      "Metadata": {
+        "Filename": "24a82a00-47a8-499a-8441-5cfe5f366444.meta.json.gz",
+        "Checksum": "AEBABAE410BBB634368E6C1DD9960CD65354BC73"
+      }
+    },
+    {
+      "UUID": "be294e7a-3ea8-4a9b-9356-b0c494c68666",
+      "Type": "Table",
+      "Name": "PROFILING",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "be294e7a-3ea8-4a9b-9356-b0c494c68666.meta.json.gz",
+        "Checksum": "8A4261E45F3DA6B2AB1864573E21A49EED79CE80"
+      }
+    },
+    {
+      "UUID": "8321a7b7-1414-4b12-a03e-302edc4cdf58",
+      "Type": "Table",
+      "Name": "REFERENTIAL_CONSTRAINTS",
+      "Rows": "8",
+      "Metadata": {
+        "Filename": "8321a7b7-1414-4b12-a03e-302edc4cdf58.meta.json.gz",
+        "Checksum": "D0785B6C051161DB0835966B66760F10553E5C0D"
+      }
+    },
+    {
+      "UUID": "fccf04f3-51cb-4df1-8801-35fdd5c4ce7e",
+      "Type": "Table",
+      "Name": "RESOURCE_GROUPS",
+      "Rows": "2",
+      "Metadata": {
+        "Filename": "fccf04f3-51cb-4df1-8801-35fdd5c4ce7e.meta.json.gz",
+        "Checksum": "2462B81F30B83FD72043B22C6B0EB9928C65BC15"
+      }
+    },
+    {
+      "UUID": "2696d3bb-941b-46a3-b7a1-92975599f898",
+      "Type": "Table",
+      "Name": "ROUTINES",
+      "Rows": "48",
+      "Metadata": {
+        "Filename": "2696d3bb-941b-46a3-b7a1-92975599f898.meta.json.gz",
+        "Checksum": "BDF741051D50A443FF28F4432334DC3E1253C5A6"
+      }
+    },
+    {
+      "UUID": "d460a9e5-8150-49af-8118-2ff665994973",
+      "Type": "Table",
+      "Name": "SCHEMA_PRIVILEGES",
+      "Rows": "164",
+      "Metadata": {
+        "Filename": "d460a9e5-8150-49af-8118-2ff665994973.meta.json.gz",
+        "Checksum": "FC7CF0CF21073EA9A309BC8D57650CA66482F305"
+      }
+    },
+    {
+      "UUID": "1c062788-abd1-46d2-8359-e618db46f227",
+      "Type": "Table",
+      "Name": "SCHEMATA",
+      "Rows": "11",
+      "Metadata": {
+        "Filename": "1c062788-abd1-46d2-8359-e618db46f227.meta.json.gz",
+        "Checksum": "75E9A81F90645BF2A5B541E942ED6402E1C0299E"
+      }
+    },
+    {
+      "UUID": "3e4eb334-e943-4cfd-b3b8-9a4c356c6523",
+      "Type": "Table",
+      "Name": "ST_GEOMETRY_COLUMNS",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "3e4eb334-e943-4cfd-b3b8-9a4c356c6523.meta.json.gz",
+        "Checksum": "330597DD83D8FCAF4627EB3211D3A431CA256CA3"
+      }
+    },
+    {
+      "UUID": "0b1af47c-e2b6-41a1-811c-5fdc619357f6",
+      "Type": "Table",
+      "Name": "ST_SPATIAL_REFERENCE_SYSTEMS",
+      "Rows": "5152",
+      "Metadata": {
+        "Filename": "0b1af47c-e2b6-41a1-811c-5fdc619357f6.meta.json.gz",
+        "Checksum": "5D234C57DA68532C9C7548D93B582D7C853411AA"
+      }
+    },
+    {
+      "UUID": "7e7f8f6b-6c17-4f65-8adb-301c9e68c3d3",
+      "Type": "Table",
+      "Name": "STATISTICS",
+      "Rows": "592",
+      "Metadata": {
+        "Filename": "7e7f8f6b-6c17-4f65-8adb-301c9e68c3d3.meta.json.gz",
+        "Checksum": "B412DC4CFA24C1B42A1F30198B44C72664182293"
+      }
+    },
+    {
+      "UUID": "738d0e00-244e-4949-a462-85fff37a8888",
+      "Type": "Table",
+      "Name": "TABLE_CONSTRAINTS",
+      "Rows": "227",
+      "Metadata": {
+        "Filename": "738d0e00-244e-4949-a462-85fff37a8888.meta.json.gz",
+        "Checksum": "06F8EC8689FEAEFD468ED8FCE56CC7E041A8D4BA"
+      }
+    },
+    {
+      "UUID": "ec603ccb-b26d-4014-b0b2-36b69078829d",
+      "Type": "Table",
+      "Name": "TABLE_PRIVILEGES",
+      "Rows": "2",
+      "Metadata": {
+        "Filename": "ec603ccb-b26d-4014-b0b2-36b69078829d.meta.json.gz",
+        "Checksum": "A1CF6E0433F0CEE49C210DEBD99290D7693D2214"
+      }
+    },
+    {
+      "UUID": "ddcd28f1-ba5a-4e5d-be69-9bed97f5a7d3",
+      "Type": "Table",
+      "Name": "TABLES",
+      "Rows": "379",
+      "Metadata": {
+        "Filename": "ddcd28f1-ba5a-4e5d-be69-9bed97f5a7d3.meta.json.gz",
+        "Checksum": "42DE4447E77BFDF553AB0B6561D41DCE0810B093"
+      }
+    },
+    {
+      "UUID": "d5ab2b34-7224-47b8-9986-fea5ee6a4270",
+      "Type": "Table",
+      "Name": "TABLESPACES",
+      "Rows": "0",
+      "Metadata": {
+        "Filename": "d5ab2b34-7224-47b8-9986-fea5ee6a4270.meta.json.gz",
+        "Checksum": "24A99FD72D2016FCA701B5A19560E259D8065CBA"
+      }
+    },
+    {
+      "UUID": "c71b3aae-663e-49a4-bbd3-f10c84aa0e3d",
+      "Type": "Table",
+      "Name": "TRIGGERS",
+      "Rows": "2",
+      "Metadata": {
+        "Filename": "c71b3aae-663e-49a4-bbd3-f10c84aa0e3d.meta.json.gz",
+        "Checksum": "853E31B93FE8DCDB3D32F728364DBAE15A8DA769"
+      }
+    },
+    {
+      "UUID": "c317de66-842c-4430-b788-11af33ca4db4",
+      "Type": "Table",
+      "Name": "USER_PRIVILEGES",
+      "Rows": "35",
+      "Metadata": {
+        "Filename": "c317de66-842c-4430-b788-11af33ca4db4.meta.json.gz",
+        "Checksum": "E9ED110BD5779AB9C8E86810FBFA1A9DE907BBAF"
+      }
+    },
+    {
+      "UUID": "bc4784df-79bb-4499-b558-c02295205e54",
+      "Type": "Table",
+      "Name": "VIEWS",
+      "Rows": "100",
+      "Metadata": {
+        "Filename": "bc4784df-79bb-4499-b558-c02295205e54.meta.json.gz",
+        "Checksum": "4C04700CAE33C22116C33DAC248C1A18EED69D51"
+      }
+    }
+  ]
+}
